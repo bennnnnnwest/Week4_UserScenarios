@@ -5,6 +5,6 @@
 
 ## User Interview
 
-**Do you need any assistance when using the system?**
+**Do you need any assistance when using the system?** (James Wicks)
 <br>
 I have trouble with my eyesight so large fonts would be nice.
