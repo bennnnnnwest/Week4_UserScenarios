@@ -8,3 +8,7 @@
 **Do you need any assistance when using the system?** (James Wicks)
 <br>
 I have trouble with my eyesight so large fonts would be nice.
+
+
+For what purpose are you interested in searching for pc components(Nabil Mateen)
+I am interested in these components and would just like to gain more knowledge about things like this.
