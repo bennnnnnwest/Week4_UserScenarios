@@ -10,5 +10,8 @@
 I have trouble with my eyesight so large fonts would be nice.
 
 
-For what purpose are you interested in searching for pc components (Nabil Mateen)
+For what purpose are you interested in searching for pc components(Nabil Mateen)
 I am interested in these components and would just like to gain more knowledge about things like this.
+
+What will you use the computer for?(Ben West)
+I will use the computer for communicating with family and to watch BBC news.
