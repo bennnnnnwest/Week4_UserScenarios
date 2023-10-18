@@ -5,6 +5,9 @@
 
 ## User Interview
 
-**Do you need any assistance when using the system?** (James Wicks)
+**Do you need any assistance when using the system?**
 <br>
 I have trouble with my eyesight so large fonts would be nice.
+
+What will you use the computer for?
+I will use the computer for communicating with family and watching BBC news.
